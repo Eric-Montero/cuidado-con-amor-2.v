@@ -1,0 +1,7 @@
+{
+  "name": "Cuidado-con-Amor",
+  "description": "A comprehensive professional nursing marketplace and healthcare management platform connecting families with vetted nursing professionals. Includes EHR reporting, family monitoring portals, and an advanced admin suite for quality and financial control.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
